@@ -1,0 +1,5 @@
+Options +FollowSymlinks
+
+RewriteEngine On
+RewriteBase /~thiagoalessio/website/
+RewriteRule . index.php

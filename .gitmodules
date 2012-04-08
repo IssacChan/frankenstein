@@ -1,0 +1,6 @@
+[submodule "vendor/poor-test"]
+	path = vendor/poor-test
+	url = git://github.com/thiagoalessio/poor-test.git
+[submodule "vendor/curl-browser"]
+	path = vendor/curl-browser
+	url = git://github.com/thiagoalessio/curl-browser.git
